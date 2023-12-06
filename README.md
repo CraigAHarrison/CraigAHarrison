@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CraigAHarrison
-- 👀 I’m interested in computer programming and coding, 3D animation and rendering, music production (guitar, piano, and digital music), art and drawing, and writing.
-  I have a big interest in web development and gaming, networking, and network/system security and administration. I also love all types of gaming.
-- 🌱 I’m currently learning Blender, Java, and how to use Git and GitHub.
+- 👋 Hi, I’m Craig!
+- 👀 I’m interested in computer programming and coding, 3D animation and rendering, music production (guitar, piano, and digital music), art, drawing, and writing.
+  I have a big interest in web and game development, networking, and network/system security and administration. I also love all types of gaming.
+- 🌱 I’m currently learning Blender, Java, C#, and how to use Git and GitHub.
 - 💞️ I’m looking to collaborate on ... nothing, currently. Trying to catch my footing with everything first.
 - 📫 How to reach me: CraigAHarrison@hotmail.com
 
